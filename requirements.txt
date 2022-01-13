@@ -1,0 +1,6 @@
+transformers
+numpy
+pandas
+tqdm
+nltk
+spacy
